@@ -5,8 +5,8 @@
 class Fliiifenleger < Formula
   desc "Experimental java-based static iiif tiler"
   homepage "https://github.com/cmahnke/fliiifenleger"
-  url "https://github.com/cmahnke/fliiifenleger/releases/download/v0.4.0/fliiifenleger.tar.gz"
-  sha256 "cb037eae52b511f99158cac0cc7f7aa1a0c7ce3ddc618dd7925130c40c2cdb0b"
+  url "https://github.com/cmahnke/fliiifenleger/releases/download/v0.4.1/fliiifenleger.tar.gz"
+  sha256 "4d9d7b4cb1dea9296a283642c2d7ee63dcd3c2b675231771e8d27e355d4b7418"
   license "NOASSERTION"
 
   depends_on "jpeg-xl"
